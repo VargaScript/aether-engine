@@ -1,0 +1,6 @@
+sqlalchemy
+psycopg2-binary
+pydantic[email]
+faker
+redis
+confluent-kafka
